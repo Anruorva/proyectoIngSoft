@@ -1,0 +1,20 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Proyecto de ingenieria de software API RESTful con Node.js y express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Los Pinguinos de madagascar",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "flow": "^0.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
